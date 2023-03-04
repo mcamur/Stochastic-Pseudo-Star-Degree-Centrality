@@ -7,3 +7,5 @@ http://www.optimization-online.org/DB_HTML/2021/05/8396.html
 IP-Model.java: It is the Java source code to solve the SPSDC problem via CPLEX using integer programming formulation. 
 
 GreedyHeuristic.java: It is the Java source code to run the heuristic approach to identify a good SPS in a given network. 
+
+ClassicalBendersDecomposition.java: It is the Java source code to implement classical/traditional Benders Decomposition approach which has shown to be the best performer among all the algorithms tested.
