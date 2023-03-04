@@ -5,4 +5,5 @@ This repository contains the data files for the manuscript entitled "The Stochas
 http://www.optimization-online.org/DB_HTML/2021/05/8396.html
 
 IP-Model.java: It is the Java source code to solve the SPSDC problem via CPLEX using integer programming formulation. 
+
 GreedyHeuristic: It is the Java source code to run the heuristic approach to identify a good SPS in a given network. 
