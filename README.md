@@ -4,4 +4,4 @@ This repository contains the data files for the manuscript entitled "The Stochas
 
 http://www.optimization-online.org/DB_HTML/2021/05/8396.html
 
-For the source code files, please contact me at my e-mail address.
+IP-Model.java: It is the Java source code to solve the SDC problem via CPLEX using integer programming formulation. 
